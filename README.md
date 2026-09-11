@@ -1,6 +1,6 @@
 # 👋 Halo, saya Adilonapsh!
 
-### 🗺️ Next-Gen Web GIS Developer & Automation Specialist
+### 🗺️ Web GIS Developer & Automation Specialist
 Saya adalah pengembang di balik **Truemaps**, sebuah platform Web GIS kelas enterprise yang fokus pada kolaborasi real-time dan analisis spasial berbasis cloud.
 
 - 🚀 **Sedang Mengembangkan:** [Truemaps](https://truemaps.my.id/)
